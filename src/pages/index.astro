@@ -1,23 +1,8 @@
 ---
+import Layoutv1 from "./layoutv1.astro";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-        <nav>
-            <a href="/showcaseproto/">PBnJ's Showcase</a>
-            <a href="/showcaseproto/">Home</a>
-            <a href="/showcaseproto/about/">About Us</a>
-            <a href="/showcaseproto/gallery/">Gallery</a>
-            <a href="/showcaseproto/blog/">Lore</a>
-        </nav>
-    	<h1>PBnJ's Showcase</h1>
-		<p>This site will be a showcase for photos and is a WIP</p>
-    </body>
-</html>
+ <Layoutv1 title="PBnJShowcase">
+		<h1 slot="body">PBnJ's Showcase</h1>
+        <p slot="body">Welcome to the future gallery of unique creations by Peri Berman and Jared Parker</p>
+ <layout>
