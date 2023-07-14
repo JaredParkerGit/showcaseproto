@@ -5,5 +5,6 @@ description: 'test environment for displaying images'
 author: 'Jared Parker'
 tags: ["dev-testing", "Webdesign", "experimental"]
 ---
-![Image](/src/images/Dallas.jpg/ "Dallas at Night")
+![Dallas](/showcaseproto/src/images/Dallas.jpg)
+![Otherworld](/blogimages/Bubbles.jpg)
 test text
