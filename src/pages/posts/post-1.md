@@ -42,7 +42,9 @@ Thanks!
     <figcaption>
 This photograph was taken at the OtherWorld
 exhibit in Columbus, Ohio 2023-06-18 by Strangers
-upon request. The focus of the camera shifted mid-photo and caused
+upon request. 
+
+The focus of the camera shifted mid-photo and caused
 the interesting effect.
     </figcaption>
 </figure>
