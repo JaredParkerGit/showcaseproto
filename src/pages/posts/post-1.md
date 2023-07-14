@@ -8,6 +8,15 @@ image:
     alt: 'The full Astro logo.'
 tags: ["blogging", "Webdesign", "Art Showcase"]
 ---
+<html lang="en">
+        <nav>
+            <a href="/showcaseproto/">PBnJ's Showcase</a>
+            <a href="/showcaseproto/">Home</a>
+            <a href="/showcaseproto/about/">About Us</a>
+            <a href="/showcaseproto/gallery/">Gallery</a>
+            <a href="/showcaseproto/blog/">Lore</a>
+        </nav>
+
 # Inspiration for Site Creation
 Published on: 2023-07-13
 
@@ -27,7 +36,7 @@ jparker2705@gmail.com
 Thanks!
 -J
 
-<img src="/showcaseproto/src/images/Bubbles.jpg/" alt="image not found" width="800"/>
+<img src="/src/images/Bubbles.jpg" alt="image not found" width="800"/>
 
 This photograph was taken at the OtherWorld
 exhibit in Columbus, Ohio 2023-06-18 by Strangers
