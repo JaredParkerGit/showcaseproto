@@ -6,6 +6,7 @@ author: 'Jared Parker'
 tags: ["dev-testing", "Webdesign", "experimental"]
 ---
 <html lang="en">
+    <head>
         <nav>
             <a href="/showcaseproto/">PBnJ's Showcase</a>
             <a href="/showcaseproto/">Home</a>
@@ -13,9 +14,13 @@ tags: ["dev-testing", "Webdesign", "experimental"]
             <a href="/showcaseproto/gallery/">Gallery</a>
             <a href="/showcaseproto/blog/">Lore</a>
         </nav>
-<section>
-<img src="/showcaseproto/dallas.png?raw=true" alt="image not found" width="800"/>
-</section>
+    </head>
+    <body>
+        <section>
+            <img src="/showcaseproto/dallas.png" alt="image not found" width="800"/>
+        </section>
+    </body>
+</html>
 
 ![Otherworld](/showcaseproto/Bubbles.jpg)
 <!-- markdown format successful, next try importing as asset-->
