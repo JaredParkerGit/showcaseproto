@@ -27,7 +27,7 @@ jparker2705@gmail.com
 Thanks!
 -J
 
-<img src="/src/images/Bubbles.jpg" alt="image not found" width="800"/>
+<img src="/src/images/Bubbles.jpg/" alt="image not found" width="800"/>
 
 This photograph was taken at the OtherWorld
 exhibit in Columbus, Ohio 2023-06-18 by Strangers
