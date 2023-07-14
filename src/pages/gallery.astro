@@ -1,10 +1,11 @@
 ---
 import Layoutv1 from '../layouts/layoutv1.astro';
+const pageTitle = "Gallery";
 ---
 
 
- <Layoutv1 title="Gallery">
-		<h1>Gallery</h1>
+ <Layoutv1 title={pageTitle}>
+		<h1>{pageTitle}</h1>
         <p>This will display all the photos and artworks with descriptive info</p>
         <section>
             <img src="/showcaseproto/bubbles.png" alt="Bubble exposure photo at Otherworld" width="800">
