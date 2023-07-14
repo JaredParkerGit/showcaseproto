@@ -18,4 +18,5 @@ tags: ["dev-testing", "Webdesign", "experimental"]
 </section>
 
 ![Otherworld](/showcaseproto/Bubbles.jpg)
+<!-- markdown format successful, next try importing as asset-->
 
