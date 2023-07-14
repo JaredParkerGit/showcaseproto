@@ -38,7 +38,7 @@ Thanks!
 </section>
 <section>
 <figure>
-<img src="../../../../showcaseproto/Bubbles.jpg" alt="image not found" width="400"/>
+<img src="/showcaseproto/bubbles.png?raw=true" alt="image not found" width="400"/>
     <figcaption>
 This photograph was taken at the OtherWorld
 exhibit in Columbus, Ohio 2023-06-18 by Strangers
