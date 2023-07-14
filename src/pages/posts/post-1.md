@@ -36,7 +36,7 @@ jparker2705@gmail.com
 Thanks!
 -J
 
-<img src="/images/Turtle.jpg" alt="image not found" width="800"/>
+<img src="https://github.com/JaredParkerGit/showcaseproto/blob/49869413493d9d9ae1fe2f71e70020c4e5d2d656/src/images/Bubbles.jpg" alt="image not found" width="400"/>
 
 This photograph was taken at the OtherWorld
 exhibit in Columbus, Ohio 2023-06-18 by Strangers
