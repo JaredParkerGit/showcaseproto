@@ -19,7 +19,7 @@ tags: ["blogging", "Webdesign", "Art Showcase"]
 
 # Inspiration for Site Creation
 Published on: 2023-07-13
-
+<section>
 Wow! Finding this page is a stroke of luck. Great job reader!
 
 While this entire website is a work in progress, it will
@@ -35,12 +35,15 @@ jparker2705@gmail.com
 
 Thanks!
 -J
-
+</section>
+<section>
+<figure>
 <img src="https://github.com/JaredParkerGit/showcaseproto/blob/49869413493d9d9ae1fe2f71e70020c4e5d2d656/src/images/Bubbles.jpg" alt="image not found" width="400"/>
-
+    <figcaption>
 This photograph was taken at the OtherWorld
 exhibit in Columbus, Ohio 2023-06-18 by Strangers
-upon request. 
-
-The focus of the camera shifted mid-photo and caused
+upon request. The focus of the camera shifted mid-photo and caused
 the interesting effect.
+    </figcaption>
+</figure>
+</section>

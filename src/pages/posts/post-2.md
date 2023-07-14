@@ -13,8 +13,9 @@ tags: ["dev-testing", "Webdesign", "experimental"]
             <a href="/showcaseproto/gallery/">Gallery</a>
             <a href="/showcaseproto/blog/">Lore</a>
         </nav>
-
+<section>
 ![Dallas](https://github.com/JaredParkerGit/showcaseproto/blob/7e8fa0207a72615d3631c366e8a19433e3d72576/src/images/Dallas.jpg)
-
+</section>
+<section>
 ![Otherworld](https://github.com/JaredParkerGit/showcaseproto/blob/49869413493d9d9ae1fe2f71e70020c4e5d2d656/src/images/Bubbles.jpg?raw=true)
-
+</section>
