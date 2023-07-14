@@ -1,0 +1,37 @@
+---
+title: 'Inspiration for this site'
+pubDate: 13-07-2023
+description: 'This will detail the reason for creating this Showcase'
+author: 'Jared Parker'
+image:
+    url: 'https://docs.astro.build/assets/full-logo-light.png'
+    alt: 'The full Astro logo.'
+tags: ["blogging", "Webdesign", "Art Showcase"]
+---
+# Inspiration for Site Creation
+Published on: 2023-07-13
+
+Wow! Finding this page is a stroke of luck. Great job reader!
+
+While this entire website is a work in progress, it will
+eventually display many original artworks and photographs.
+
+Witnessing my partner create numerous artworks in many mediums
+inspired a desire to catalogue and showcase her talents, as well
+
+
+as my own developing skills. Please continue checking back for
+updates and if there are any inquiries, please forward them to
+jparker2705@gmail.com
+
+Thanks!
+-J
+
+<img src="/src/images/Bubbles.jpg" alt="image not found" width="800"/>
+
+This photograph was taken at the OtherWorld
+exhibit in Columbus, Ohio 2023-06-18 by Strangers
+upon request. 
+
+The focus of the camera shifted mid-photo and caused
+the interesting effect.
