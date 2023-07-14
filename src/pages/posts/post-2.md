@@ -14,7 +14,7 @@ tags: ["dev-testing", "Webdesign", "experimental"]
             <a href="/showcaseproto/blog/">Lore</a>
         </nav>
 <section>
-<img src="/showcaseproto/dallas.jpg" alt="image not found" width="400"/>
+<img src="/showcaseproto/dallas.png?raw=true" alt="image not found" width="800"/>
 </section>
 
 ![Otherworld](/showcaseproto/Bubbles.jpg)
